@@ -1,8 +1,7 @@
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
- [![Instagram](https://img.shields.io/badge/-Socreativity1-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/Socreativity1/)
 
-[![GitHub followers](https://img.shields.io/github/followers/Webdev.svg?style=social&label=Follow)](https://github.com/your_username)
+[![GitHub followers](https://img.shields.io/github/followers/Webdev.svg?style=social&label=Follow)](https://github.com/WebDev007)
 
 ![New Learner](https://img.shields.io/badge/Learning-New%20Learner-lightgrey?style=flat) 
 ![Digital Agency](https://img.shields.io/badge/Digital%20Agency-purple?style=flat&logoColor=white)
