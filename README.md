@@ -1,6 +1,13 @@
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
+![HTML](https://img.shields.io/badge/HTML-5-orange?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-3-blue?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat&logo=javascript&logoColor=white)
+
+
+
+
 [![GitHub followers](https://img.shields.io/github/followers/Webdev.svg?style=social&label=Follow)](https://github.com/WebDev007)
 
 ![New Learner](https://img.shields.io/badge/Learning-New%20Learner-lightgrey?style=flat) 
