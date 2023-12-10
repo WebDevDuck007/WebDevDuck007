@@ -9,7 +9,7 @@
 
 
 
-[![GitHub followers](https://img.shields.io/github/followers/Webdev.svg?style=social&label=Follow)](https://github.com/WebDev007) ![Future Learn](https://img.shields.io/badge/future%20learn-DE00A5?style=for-the-badge&logo=futurelearn&logoColor=white)
+[![GitHub followers](https://img.shields.io/github/followers/Webdev.svg?style=social&label=Follow)](https://github.com/WebDev007)
 
 ![New Learner](https://img.shields.io/badge/Learning-New%20Learner-lightgrey?style=flat) 
 ![Digital Agency](https://img.shields.io/badge/Digital%20Agency-purple?style=flat&logoColor=white)
