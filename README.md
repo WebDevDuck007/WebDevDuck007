@@ -3,7 +3,7 @@
 
 
 
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+
 
 ![HTML](https://img.shields.io/badge/HTML-5-orange?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-3-blue?style=flat&logo=css3&logoColor=white)
