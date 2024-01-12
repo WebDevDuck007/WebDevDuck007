@@ -1,4 +1,5 @@
-![medium-shot-kid-with-laptop-indoors_23-2150909756](https://github.com/WebDevDuck007/WebDevDuck007/assets/153345493/5378132e-fbab-4f68-b970-7403801f19d5)
+![medium-shot-kid-with-laptop-indoors2_23-2150909756](https://github.com/WebDevDuck007/WebDevDuck007/assets/153345493/1f39349d-5f67-4e66-a9be-e7aada15292c)
+
 
 
 
